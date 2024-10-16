@@ -175,7 +175,6 @@ Now that you have a lakehouse, you need to ingest some data into it. One way to 
 
 10. Once published, you can right-click on the dataflow in your workspace, select **Properties**, and rename your dataflow.
 
-<validation step="61a34bd9-1fc1-47db-b51c-4720f310133d" />
 
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps
 > - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
