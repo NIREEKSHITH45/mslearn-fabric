@@ -17,9 +17,13 @@ Before working with data in Fabric, create a workspace with the Fabric trial ena
 
 1. Sign into [Microsoft Fabric](https://app.fabric.microsoft.com) at `https://app.fabric.microsoft.com`
 
+    * Email/Username: <inject key="AzureAdUserEmail"></inject>
+
+    * Password: <inject key="AzureAdUserPassword"></inject>
+
    ![](./Images/odl-01.png)
    
-2. After logging in, choose **Power BI**.
+1. After logging in, choose **Power BI**.
 
    ![](./Images/power-bi.png)
 
